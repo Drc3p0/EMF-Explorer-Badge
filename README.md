@@ -13,7 +13,9 @@ We have instructions in written and video form:
 
 [EMF Explorer Badge Assembly Video Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
 
-Additional info about the project is available on my [website](www.darcyneal.com/emf-explorer-badge). 
+Additional info about the project is available on my [website](www.darcyneal.com/emf-explorer-badge)
+
+Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq)
 
 
 Board Images:
