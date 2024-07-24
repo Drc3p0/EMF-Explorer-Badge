@@ -6,19 +6,19 @@ This board was designed for workshops at outdoor hacker camps. It aims to provid
 
 ## Inspiration
 Inspired by:
-- [EMF amplifier workshop from eTextile Summer Camp 2016]([https://etextile-summercamp.org](https://etextile-summercamp.org/2016/emf/))
-- [2016 Make magazine article]([https://makezine.com](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields))
-- [Instructables article]([https://www.instructables.com](https://www.instructables.com/Electromagnetic-Field-EMF-Detector-With-LM358/))
+- [EMF amplifier workshop from eTextile Summer Camp 2016]([https://etextile-summercamp.org](https://etextile-summercamp.org/2016/emf/)
+- [2016 Make magazine article]([https://makezine.com](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields)
+- [Instructables article]([https://www.instructables.com](https://www.instructables.com/Electromagnetic-Field-EMF-Detector-With-LM358/)
 
 ## Assembly Instructions
-- [Text Guide]([https://docs.google.com](https://docs.google.com/document/d/1Kgv2Rp1xcu-mBzz1PYcUQPoBI5fqRMCcxhkgwrud0W8/edit?usp=sharing))
-- [Video Guide]([https://www.youtube.com](https://www.youtube.com/watch?v=RpOQVFWgqNM))
+- [Text Guide]([https://docs.google.com](https://docs.google.com/document/d/1Kgv2Rp1xcu-mBzz1PYcUQPoBI5fqRMCcxhkgwrud0W8/edit?usp=sharing)
+- [Video Guide]([https://www.youtube.com](https://www.youtube.com/watch?v=RpOQVFWgqNM)
 
 ## Project Info
 This repo contains the design files, with more video/audio coming soon. 
 
 ## PCB Order
-Order a bare PCB from [OshPark]([https://oshpark.com](https://oshpark.com/shared_projects/bRVDS1Pq)).
+Order a bare PCB from [OshPark]([https://oshpark.com](https://oshpark.com/shared_projects/bRVDS1Pq).
 
 ## Images
 
