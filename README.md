@@ -22,9 +22,11 @@ Order a bare PCB from [OshPark]([https://oshpark.com](https://oshpark.com/shared
 
 ## Images
 
-<img src="https://github.com/user-attachments/assets/97c9f705-4057-4e2b-ac2d-8a63c415718c" alt="Board Image 1" width="400"/>
-<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/a535f246-b646-4714-8925-f125b6f0ea7e" alt="Board Image 2" width="400"/>
-Special edition purple PCB, courtesy of [OshPark](https://oshpark.com): 
+<img src="https://github.com/user-attachments/assets/97c9f705-4057-4e2b-ac2d-8a63c415718c" alt="Current Version" width="400"/>
+  
+<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/a535f246-b646-4714-8925-f125b6f0ea7e" alt="Previous Version used for Toorcamp" width="400"/>
+  
+Special edition purple PCB, courtesy of [OshPark](https://oshpark.com), used for workshops at the Open Hardware Summit '24 and dadaLab '24: 
 <img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/30ba6286-c251-4429-aaae-bb157a99cee2" alt="Purple PCB" width="400"/>
 
 ## License
