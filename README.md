@@ -25,11 +25,17 @@ This project was born out of a drive to create accessible learning devices to te
 ## Images
 
 <img src="https://github.com/user-attachments/assets/97c9f705-4057-4e2b-ac2d-8a63c415718c" alt="Current Version" width="400"/>
-  
-<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/a535f246-b646-4714-8925-f125b6f0ea7e" alt="Previous Version used for Toorcamp" width="400"/>
-  
+
+<img src="https://github.com/user-attachments/assets/fa920b69-1fcc-4b35-abb2-a3b843da4749" alt="image2" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/65f03caa-58dd-484f-8f67-02ab02d7dcda*" alt="image3" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/4a4d4a6f-3a35-47c5-bdd7-2e5554a2b9ac" alt="image3" width="400"/>
+
+ 
 Special edition purple PCB, courtesy of [OshPark](https://oshpark.com), used for workshops at the Open Hardware Summit '24 and dadaLab '24: 
 <img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/30ba6286-c251-4429-aaae-bb157a99cee2" alt="Purple PCB" width="400"/>
+
 
 ## License
 
