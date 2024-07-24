@@ -18,6 +18,7 @@ Inspired by:
 This repo contains the design files, with more video/audio coming soon. 
 
 ## PCB Order
+Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/products/emf](https://www.makershed.com/products/emf)
 Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
 
 ## Images
