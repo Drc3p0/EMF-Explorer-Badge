@@ -28,9 +28,10 @@ This project was born out of a drive to create accessible learning devices to te
 
 <img src="https://github.com/user-attachments/assets/fa920b69-1fcc-4b35-abb2-a3b843da4749" alt="image2" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/65f03caa-58dd-484f-8f67-02ab02d7dcda*" alt="image3" width="400"/>
+<img src="https://github.com/user-attachments/assets/4a4d4a6f-3a35-47c5-bdd7-2e5554a2b9ac" alt="listening to parking meter" width="800"/>
 
-<img src="https://github.com/user-attachments/assets/4a4d4a6f-3a35-47c5-bdd7-2e5554a2b9ac" alt="image3" width="400"/>
+<img src="https://github.com/user-attachments/assets/7cbd90fb-3111-438b-8fc3-2ec3129f832d" alt="listening to electric scooter" width= "800"/>  
+
 
  
 Special edition purple PCB, courtesy of [OshPark](https://oshpark.com), used for workshops at the Open Hardware Summit '24 and dadaLab '24: 
