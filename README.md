@@ -5,8 +5,8 @@ Explore the electromagnetic frequencies around you with the EMF Explorer badge, 
 This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electronic frequencies. The components are easy to assemble, with unique lead spacing or colors for each value. Assembly typically takes about 1 hour. 
 
 ## Assembly Instructions
-- [Text Guide](https://bit.ly/emf-assembly-guide)
-- [Video Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
+- [Text Assembly Guide](https://bit.ly/emf-assembly-guide)
+- [Video Assembly Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
 
 ## Where to Buy
 - Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/products/emf](https://www.makershed.com/products/emf)
