@@ -23,9 +23,9 @@ Order a bare PCB from [OshPark]([https://oshpark.com](https://oshpark.com/shared
 ## Images
 
 <img src="https://github.com/user-attachments/assets/97c9f705-4057-4e2b-ac2d-8a63c415718c" alt="Board Image 1" width="400"/>
-<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/raw/main/images/signal-2024-04-26-031624_002.jpg" alt="Board Image 2" width="400"/>
+<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/a535f246-b646-4714-8925-f125b6f0ea7e" alt="Board Image 2" width="400"/>
 Special edition purple PCB, courtesy of [OshPark](https://oshpark.com): 
-<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/raw/main/images/oshparkEMFboard.jpg" alt="Purple PCB" width="400"/>
+<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/30ba6286-c251-4429-aaae-bb157a99cee2" alt="Purple PCB" width="400"/>
 
 ## License
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
