@@ -21,6 +21,8 @@ More information is available on the [project website](www.darcyneal.com/emf-exp
 Order a bare PCB from [OshPark]([https://oshpark.com](https://oshpark.com/shared_projects/bRVDS1Pq)).
 
 ## Images
+<img src="https://github.com/Drc3p0/EMF-Explorer-Badge/raw/main/images/oshparkEMFboard.jpg" alt="Alt text" width="WIDTH" height="HEIGHT">
+
 <img src="https://github.com/Drc3p0/EMF-Explorer-Badge/raw/main/images/PXL_20240711_210140224.jpg" alt="Board Image 1" width="400"/>
 <img src="https://github.com/Drc3p0/EMF-Explorer-Badge/raw/main/images/signal-2024-04-26-031624_002.jpg" alt="Board Image 2" width="400"/>
 Special edition purple PCB, courtesy of [OshPark](https://oshpark.com): 
