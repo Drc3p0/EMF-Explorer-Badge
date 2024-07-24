@@ -15,7 +15,7 @@ Inspired by:
 - [Video Guide]([https://www.youtube.com](https://www.youtube.com/watch?v=RpOQVFWgqNM))
 
 ## Project Info
-More information is available on the [project website](www.darcyneal.com/emf-explorer-badge).
+This repo contains the design files, with more video/audio coming soon. 
 
 ## PCB Order
 Order a bare PCB from [OshPark]([https://oshpark.com](https://oshpark.com/shared_projects/bRVDS1Pq)).
@@ -30,7 +30,5 @@ Special edition purple PCB, courtesy of [OshPark](https://oshpark.com), used for
 <img src="https://github.com/Drc3p0/EMF-Explorer-Badge/assets/5934416/30ba6286-c251-4429-aaae-bb157a99cee2" alt="Purple PCB" width="400"/>
 
 ## License
-This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 
  <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
