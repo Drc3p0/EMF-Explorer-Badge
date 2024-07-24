@@ -4,22 +4,23 @@ Explore the electromagnetic frequencies around you with the EMF Explorer badge, 
 
 This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electronic frequencies. The components are easy to assemble, with unique lead spacing or colors for each value. Assembly typically takes about 1 hour. 
 
-## Inspiration
-Inspired by:
-- [EMF amplifier workshop from eTextile Summer Camp 2016](https://etextile-summercamp.org/2016/emf/)
-- [2016 Make magazine article](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields)
-- [Instructables article](https://www.instructables.com/Electromagnetic-Field-EMF-Detector-With-LM358/)
-
 ## Assembly Instructions
-- [Text Guide](https://docs.google.com/document/d/1Kgv2Rp1xcu-mBzz1PYcUQPoBI5fqRMCcxhkgwrud0W8/edit?usp=sharing)
+- [Text Guide](https://bit.ly/emf-assembly-guide)
 - [Video Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
+
+## Where to Buy
+- Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/products/emf](https://www.makershed.com/products/emf)
+- Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
 
 ## Project Info
 This repo contains the design files, with more video/audio coming soon. 
 
-## PCB Order
-Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/products/emf](https://www.makershed.com/products/emf)
-Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
+## Inspiration
+This project was born out of a drive to create accessible learning devices to teach students about electricity.  Some resources that proved invaluable in this process:
+- [EMF amplifier workshop from eTextile Summer Camp 2016](https://etextile-summercamp.org/2016/emf/)
+- [2016 Make magazine article](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields)
+- [The legendary Elektrosluch](https://github.com/LOM-instruments/Elektrosluch-3/tree/master/hardware)
+
 
 ## Images
 
