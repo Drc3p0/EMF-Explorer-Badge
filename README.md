@@ -9,7 +9,7 @@ This board was designed for workshops at outdoor hacker camps. It aims to provid
 - [Video Assembly Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
 
 ## Where to Buy
-- Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/products/emf](https://www.makershed.com/products/emf)
+- Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/collections/all/products/emf](https://www.makershed.com/collections/all/products/emf)
 - Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
 
 ## Project Info
