@@ -2,7 +2,7 @@
 
 Explore the electromagnetic frequencies around you with the EMF Explorer badge, created by Darcy Neal.
 
-This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electronic frequencies. The components are easy to assemble, with unique lead spacing or colors for each value. Assembly typically takes about 1 hour. 
+This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electromagnetic frequencies. The board is designed to be easy to assemble by anyone who can wield a soldering iron, and assembly typically takes about 1 hour. 
 
 ## Assembly Instructions
 - [Text Assembly Guide](https://bit.ly/emf-assembly-guide)
@@ -11,14 +11,14 @@ This board was designed for workshops at outdoor hacker camps. It aims to provid
 ## Where to Buy
 - Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/collections/all/products/emf](https://www.makershed.com/collections/all/products/emf)
 - Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
+- Learn how to build your own from scratch in [MAKE Magazine, Vol 90](https://www.makershed.com/products/make-magazine-volume-90-print?pr_prod_strat=jac&pr_rec_id=abdde9ae7&pr_rec_pid=10507909955777&pr_ref_pid=10481106288833&pr_seq=uniform) 
 
 ## Project Info
-This repo contains the design files, with more video/audio coming soon. 
+This repo contains the design files for V1. [Videos of the EMF board in action](https://youtube.com/playlist?list=PLv4aAZ9vybC-C60QNva_aFFxgQik_hsGD&si=QTph-GFbRsYseA82)
 
 ## Inspiration
 This project was born out of a drive to create accessible learning devices to teach students about electricity.  Some resources that proved invaluable in this process:
 - [EMF amplifier workshop from eTextile Summer Camp 2016](https://etextile-summercamp.org/2016/emf/)
-- [2016 Make magazine article](https://makezine.com/projects/weekend-project-sample-weird-sounds-electromagnetic-fields)
 - [The legendary Elektrosluch](https://github.com/LOM-instruments/Elektrosluch-3/tree/master/hardware)
 
 
