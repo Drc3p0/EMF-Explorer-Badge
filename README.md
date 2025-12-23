@@ -9,9 +9,9 @@ This board was designed for workshops at outdoor hacker camps. It aims to provid
 - [Video Assembly Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
 
 ## Where to Buy
-- Buy a ready-to-assemble kit from the Maker shed here: [https://www.makershed.com/collections/all/products/emf](https://www.makershed.com/collections/all/products/emf)
+- Buy a ready-to-assemble kit from the [MakerShed](https://www.makershed.com/collections/all/products/emf).
 - Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
-- Learn how to build your own from scratch in [MAKE Magazine, Vol 90](https://www.makershed.com/products/make-magazine-volume-90-print?pr_prod_strat=jac&pr_rec_id=abdde9ae7&pr_rec_pid=10507909955777&pr_ref_pid=10481106288833&pr_seq=uniform) 
+- Learn how to build your own from scratch in [MAKE Magazine, Vol 90](https://www.makershed.com/products/make-magazine-volume-90-print?pr_prod_strat=jac&pr_rec_id=abdde9ae7&pr_rec_pid=10507909955777&pr_ref_pid=10481106288833&pr_seq=uniform). 
 
 ## Project Info
 This repo contains the design files for V1. [Videos of the EMF board in action](https://youtube.com/playlist?list=PLv4aAZ9vybC-C60QNva_aFFxgQik_hsGD&si=QTph-GFbRsYseA82)
