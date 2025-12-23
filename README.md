@@ -1,6 +1,6 @@
 # EMF Explorer Badge
 
-Explore the electromagnetic frequencies around you with the EMF Explorer badge, created by Darcy Neal.
+Explore the electromagnetic frequencies around you with the EMF Explorer badge, created by Darcy Neal of [SporkLogic](https://sporklogic.com).
 
 This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electromagnetic frequencies. The board is designed to be easy to assemble by anyone who can wield a soldering iron, and assembly typically takes about one hour. 
 
