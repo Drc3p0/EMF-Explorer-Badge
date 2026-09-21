@@ -1,12 +1,11 @@
 # EMF Explorer Badge
 
-Explore the electromagnetic frequencies around you with the EMF Explorer badge, created by Darcy Neal of [SporkLogic](https://sporklogic.com).
+Explore the electromagnetic frequencies around you with the [EMF Explorer badge](https://emfexplorer.space), created by Darcy Neal of [SporkLogic](https://sporklogic.com).
 
 This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electromagnetic frequencies. The board is designed to be easy to assemble by anyone who can wield a soldering iron, and assembly typically takes about one hour. 
 
 ## Assembly Instructions
-- [Text Assembly Guide](https://sporklogic.com/emfguide/)
-- [Video Assembly Guide](https://www.youtube.com/watch?v=RpOQVFWgqNM)
+Text, picture, and video assembly guide available at [https://emfexplorer.space/docs.html](https://emfexplorer.space/docs.html) 
 
 ## Where to Buy
 - Buy a ready-to-assemble kit from the [MakerShed](https://www.makershed.com/collections/all/products/emf).
