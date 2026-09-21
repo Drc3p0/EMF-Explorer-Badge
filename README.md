@@ -2,10 +2,13 @@
 
 Explore the electromagnetic frequencies around you with the [EMF Explorer badge](https://emfexplorer.space), created by Darcy Neal of [SporkLogic](https://sporklogic.com).
 
-This board was designed for workshops at outdoor hacker camps. It aims to provide an accessible tool to inspire curiosity about electromagnetic frequencies. The board is designed to be easy to assemble by anyone who can wield a soldering iron, and assembly typically takes about one hour. 
+The EMF Explorer badge is ideal for soldering workshops at large-scale hacker camps. It aims to provide an accessible tool to inspire curiosity about electronics, and is designed to be easy to assemble by anyone who can wield a soldering iron. Assembly typically takes about one hour. 
 
 ## Assembly Instructions
 Text, picture, and video assembly guide available at [https://emfexplorer.space/docs.html](https://emfexplorer.space/docs.html) 
+
+## Learn how it Works
+Check out the soundwalk videos, learning guides, zine, and frequency monitor at [https://emfexplorer.space/demos.html](https://emfexplorer.space/demos.html)
 
 ## Where to Buy
 - Buy a ready-to-assemble kit from the [MakerShed](https://www.makershed.com/collections/all/products/emf).
@@ -19,7 +22,7 @@ This repo contains the design files for V1. [Videos of the EMF board in action](
 This project was born out of a drive to create accessible learning devices to teach students about electricity.  Some resources that proved invaluable in this process:
 - [EMF amplifier workshop from eTextile Summer Camp 2016](https://etextile-summercamp.org/2016/emf/)
 - [The legendary Elektrosluch](https://github.com/LOM-instruments/Elektrosluch-3/tree/master/hardware)
-
+- [Gingerbread SVG to KiCad PCB art tool](https://gingerbread.wntr.dev/help.html)
 
 ## Images
 
