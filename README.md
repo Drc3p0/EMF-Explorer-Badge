@@ -11,8 +11,11 @@ Text, picture, and video assembly guide available at [https://emfexplorer.space/
 Check out the soundwalk videos, learning guides, zine, and frequency monitor at [https://emfexplorer.space/demos.html](https://emfexplorer.space/demos.html)
 
 ## Where to Buy
-- Buy a ready-to-assemble kit from the [MakerShed](https://www.makershed.com/collections/all/products/emf).
-- Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq).
+- Buy a ready-to-assemble kit from:
+  - [MakerShed (US)](https://www.makershed.com/collections/all/products/emf)
+  - [iFixit (US)](https://www.ifixit.com/products/emf-explorer-kit)
+  - [Pimoroni (UK)](https://shop.pimoroni.com/en-us/products/emf-explorer-badge)
+- Order a bare PCB from [OshPark](https://oshpark.com/shared_projects/bRVDS1Pq)
 - Learn how to build your own from scratch in [MAKE Magazine, Vol 90](https://www.makershed.com/products/make-magazine-volume-90-print?pr_prod_strat=jac&pr_rec_id=abdde9ae7&pr_rec_pid=10507909955777&pr_ref_pid=10481106288833&pr_seq=uniform). 
 
 ## Project Info
